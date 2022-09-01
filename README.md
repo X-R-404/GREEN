@@ -61,6 +61,7 @@ CONTACT WITH <a href="https://github.com/X-R-404"><b>RIMON</a> </br><br>
 
 #### INSTALL TOOL ON TERMUX
 ```shell
+$ rm -rf GREEN
 $ pkg update && pkg upgrade
 $ pkg install python
 $ pip install mechanize requests bs4
