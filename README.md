@@ -23,11 +23,6 @@
   
 ____Programming And Memes____
 
-CONTACT WITH <a href="https://github.com/X-R-404"><b>RIMON</a> </br><br>
-<img src="https://github.com/Azim-Vau/Azim-Vau/blob/main/IMAGE/contact.png" alt="alt text" width="25" height="25"> <br>
-<p>rimonxr4@gmail.com</p>  <br> <br> 
-
-
 <a href="https://github.com/X-R-404/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/X-R-404?label=Followers&color=blue&style=flat-square"></a>
 
