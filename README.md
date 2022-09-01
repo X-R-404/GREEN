@@ -24,7 +24,7 @@
 ____Programming And Memes____
 
 CONTACT WITH <a href="https://github.com/X-R-404"><b>RIMON</a> </br><br>
-<img src="https://github.com/X-R-404/GREEN/blob/main/IMAGE/contact.png" alt="alt text" width="25" height="25"> <br>
+<img src="https://github.com/Azim-Vau/Azim-Vau/blob/main/IMAGE/contact.png" alt="alt text" width="25" height="25"> <br>
 <p>rimonxr4@gmail.com</p>  <br> <br> 
 
 
