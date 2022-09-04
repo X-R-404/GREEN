@@ -56,18 +56,18 @@ ____Programming And Memes____
 
 #### INSTALL TOOL ON TERMUX
 ```shell
-$ rm -rf GREEN
-$ pkg update && pkg upgrade
-$ pkg install python
-$ pip install mechanize requests bs4
-$ pkg install git
-$ git clone https://github.com/X-R-404/GREEN
+rm -rf GREEN
+pkg update && pkg upgrade
+pkg install python
+pip install mechanize requests bs4
+pkg install git
+git clone https://github.com/X-R-404/GREEN
 ```
 #### RUN SCRIPT
 ```shell
-$ cd GREEN
-$ git pull
-$ python run.py
+cd GREEN
+git pull
+python run.py
 ```
 #### About
 ```shell
