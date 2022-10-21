@@ -61,17 +61,15 @@ pkg update && pkg upgrade
 pkg install python
 pip install mechanize requests bs4
 pkg install git
-git clone https://github.com/X-R-404/GREEN
-```
-#### RUN SCRIPT
-```shell
+rm -rf GREEN
+git clone https://github.com/X-R-404/GREEN.git
 cd GREEN
 git pull
 python run.py
 ```
 #### About
 ```shell
-This tool is paid.You need to get aproval first
+This tool is Free. So Enjoy 😉 😘 
 ```
 
 ##### MY SOCIAL MEDIA
@@ -80,4 +78,4 @@ This tool is paid.You need to get aproval first
 [![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/X.R.404) <br>
 
 
-<h2> THANKS FOR VISIT ✘✘ <h2\>
+<h2> THANKS ✘✘ <h2\>
