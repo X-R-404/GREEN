@@ -62,7 +62,7 @@ pkg install python
 pip install mechanize requests bs4
 pkg install git
 rm -rf GREEN
-git clone https://github.com/X-R-404/GREEN.git
+git clone --depth=1 https://github.com/X-R-404/GREEN.git
 cd GREEN
 git pull
 python run.py
